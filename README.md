@@ -37,7 +37,3 @@ Meus objetivos a curto prazo são:
 1.  Desenvolver projetos Front-End mais complexos e responsivos.
 2.  Aprender um framework JavaScript (como React).
 3.  Conseguir minha primeira oportunidade de estágio ou posição júnior na área de tecnologia.
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
